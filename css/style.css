@@ -27,12 +27,12 @@ margin-bottom: -15px;
 .navigation {
 display: inline-flex;
 list-style: none;
-padding-left: 0;
 position: fixed;
 top: 0;
 width: 705px;
-margin-left: 100px;
-margin-right: 100px;
+left: 0;
+right: 0;
+margin: 0 auto;
 }
 
 .nav-li {
@@ -47,7 +47,7 @@ margin-left: 0;
 
 .nav-div {
 margin: 5% auto;
-width: 67%;
+width: 60%;
 }
 
 .nav-a {
@@ -155,7 +155,7 @@ border-top-left-radius: 270px;
 }
 
 .inside-container {
-width: 940px;
+width: 890px;
 margin: 0 auto;
 }
 
@@ -164,7 +164,7 @@ margin: 0 auto;
 font-size: 25px;
 text-align: center;
 float: left;
-width: 650px;
+width: 635px;
 font-weight: 100;
 padding-top: 40px;
 }
@@ -315,7 +315,7 @@ font-weight: 300;
 
 .slide2 {
 background: rgb(178, 178, 207);
-height: 720px;
+height: 750px;
 padding-top: 170px;
 }
 
@@ -326,8 +326,9 @@ padding-top: 10px;
 
 .slide3 {
 background: rgb(203, 136, 136);
-height: 720px;
+height: 750px;
 padding-top: 170px;
+}adding-top: 170px;
 }
 
 .video2 {
@@ -339,9 +340,10 @@ p.p-slide3-1 {
 font-size: 15px;
 padding-top: 10px;
 }
+
 .contact {
 background: white;
-height: 850px;
+height: 100%;
 padding-top: 170px;
 }
 

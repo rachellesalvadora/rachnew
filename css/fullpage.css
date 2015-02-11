@@ -95,6 +95,7 @@ border-radius: 10px;
 #menu li a, #menu li.active a {
 padding: 9px 18px;
 display: block;
+font-size: 15px;
 }
 
 #menu li.active a{
