@@ -314,7 +314,6 @@ font-weight: 300;
 }
 
 .slide2 {
-background: rgb(178, 178, 207);
 height: 750px;
 padding-top: 170px;
 }
@@ -325,10 +324,8 @@ padding-top: 10px;
 }
 
 .slide3 {
-background: rgb(203, 136, 136);
 height: 750px;
 padding-top: 170px;
-}adding-top: 170px;
 }
 
 .video2 {
@@ -410,5 +407,5 @@ letter-spacing: 4px;
 }
 
 @media (max-width: 940px) {
-  
+
 }
