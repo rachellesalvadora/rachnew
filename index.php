@@ -124,7 +124,8 @@ include "header.php";
 				<div class="intro">
 					
 					<h1 class="h1-slide1">My Better half</h1>
-					<p class="p-slide1">I dedicate this part of my website to my husband. You can skip this part or whatever, but if you feel like getting to know more about me you can click the arrow on the left or right.</p>
+					<p class="p-slide1">I dedicate this part of my website to my husband. You can skip this part or whatever but if you feel like getting to know more about me you can click the arrow on the left or right.</p>
+					<p class="p-slide1">This is the link to his website: <a class="g-link" href="http://giolliano.com">giolliano.com</a></p>
 					</div>
 				</div>
 			</div>
