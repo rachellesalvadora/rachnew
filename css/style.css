@@ -297,6 +297,8 @@ padding-bottom: 25px;
 font-weight: 100;
 }
 
+
+
 .h1-slide2 {
 font-size: 61px;
 padding-bottom: 30px;
@@ -314,7 +316,8 @@ font-weight: 300;
 }
 
 .slide2 {
-height: 750px;
+background: rgb(178, 178, 207);
+height: 100%;
 padding-top: 170px;
 }
 
@@ -324,7 +327,8 @@ padding-top: 10px;
 }
 
 .slide3 {
-height: 750px;
+background: rgb(203, 136, 136);
+height: 100%;
 padding-top: 170px;
 }
 
@@ -340,8 +344,8 @@ padding-top: 10px;
 
 .contact {
 background: white;
-height: 100%;
-padding-top: 170px;
+height: 115%;
+padding-top: 200px;
 }
 
 .contact-icon {

@@ -120,16 +120,18 @@ include "header.php";
 	<div class="section" id="section4">
 		<div class="personal" id="personal">
 	    	<div class="slide">
+	    	<div class="slide1">
 				<div class="intro">
-					<div class="slide1">
+					
 					<h1 class="h1-slide1">My Better half</h1>
 					<p class="p-slide1">I dedicate this part of my website to my husband. You can skip this part or whatever, but if you feel like getting to know more about me you can click the arrow on the left or right.</p>
 					</div>
 				</div>
 			</div>
 			<div class="slide">
+			<div class="slide2">
 				<div class="intro">
-				<div class="slide2">
+				
 
 				<iframe class="video1" width="560" height="315" src="https://www.youtube.com/embed/hm_GtiXGqXk" frameborder="0" allowfullscreen></iframe>
 				<p class="p-slide2">He is the sun to my sky.</p>
@@ -138,8 +140,9 @@ include "header.php";
 				</div>
 			</div>
 			<div class="slide">
+			<div class="slide3">
 				<div class="intro">
-				<div class="slide3">
+				
 
 				<iframe class="video2" width="560" height="315" src="https://www.youtube.com/embed/0e-IZZNI_YI" frameborder="0" allowfullscreen></iframe>
 
