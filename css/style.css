@@ -408,3 +408,7 @@ letter-spacing: 4px;
 .footer-p {
 	font-size: 12px;
 }
+
+@media (max-width: 940px) {
+  
+}
