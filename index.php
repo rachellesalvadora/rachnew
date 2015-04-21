@@ -41,6 +41,7 @@ include "header.php";
 			<h1 class="rachelle">
 				RACHELLE S.
 			</h1>
+			<p class="front-p">An aspiring web developer based in Melbourne, Australia <br /> with her husband and two baby Yoshi dragons.</p>
 			
 		</div>
 	</div>
@@ -85,7 +86,7 @@ include "header.php";
 							<a class="cs50-link" href="https://os.dce.harvard.edu/dce-public/certificate/verify/4c12a86a-341c-4d0b-bba4-db6385551aef">Verified link</a>
 						</p>
 			
-						<p class="p-cs50">
+						<p class="p-cs50 cs50-right">
 							I challenged myself to express art in code. It was <span>HTML and CSS</span> at first. Then I realize there's so much more to it. With my eagerness to learn it deeply I took different courses from variety of online school around the internet. 
 
 							I learn something new from time to time but the most rewarding was <span>Harvard's CS50 Intro to Computer Science</span>. </p>
@@ -93,7 +94,7 @@ include "header.php";
 
 						<p class="p-cs50 cs50-bottom">
 							Check the link on the right. It has the Signature of the Senior lecturer on Computer Science of Harvard University, <a href="http://cs.harvard.edu/malan">David Malan</a> and Huntington D. Lambert, Dean of Harvard Extension School.</p>
-						<br/><br/>
+						
 
 						<!--
 					
@@ -134,7 +135,7 @@ include "header.php";
 				<div class="intro">
 				
 
-				<iframe class="video1" width="560" height="315" src="https://www.youtube.com/embed/hm_GtiXGqXk" frameborder="0" allowfullscreen></iframe>
+				<iframe class="video1" src="https://www.youtube.com/embed/hm_GtiXGqXk" frameborder="0" allowfullscreen></iframe>
 				<p class="p-slide2">He is the sun to my sky.</p>
 				<p class="p-slide2-1">I learn how to bake, how to code, sql, command line etc. I also learn how to use iMovie and other editing tools so I made this.</p>
 				</div>
@@ -145,7 +146,7 @@ include "header.php";
 				<div class="intro">
 				
 
-				<iframe class="video2" width="560" height="315" src="https://www.youtube.com/embed/0e-IZZNI_YI" frameborder="0" allowfullscreen></iframe>
+				<iframe class="video2" src="https://www.youtube.com/embed/0e-IZZNI_YI" frameborder="0" allowfullscreen></iframe>
 
 				<p class="p-slide3">The Apple of my eye.</p>
 				<p class="p-slide3-1">I love doing stuff for him like cooking and make websites. They say that you can make websites for whatever it is about just to practice your skill. Yup, I'm learning.</p>
@@ -160,8 +161,8 @@ include "header.php";
 			<h1 class="h1-contact">Get In Touch</h1>
 
 			<div class="div-icon">
+			<div class="contact-icons">
 			<a class="icon-a" href="https://www.facebook.com/rachelle.salvadora1" target="_blank">
-
 			<p class="p-icon">
 			Facebook
 			</p>
@@ -169,53 +170,62 @@ include "header.php";
 			<img class="contact-icon" src="img/facebook.png" alt="slider" />
 			
 			</a>
+			</div>
+			<div class="contact-icons">
 			<a class="icon-a" href="https://twitter.com/rachsalvadora" target="_blank">
 			<p class="p-icon">
 			Twitter</p>
 			<br/><img class="contact-icon" src="img/twitter.png" alt="slider" />
 			</a>
-
+			</div>
+			<div class="contact-icons">
 			<a class="icon-a" href="https://github.com/rachellesalvadora/" target="_blank">
 			<p class="p-icon">
 			Github.com</p>
 			<br/>
 			<img class="contact-icon" src="img/github.png" alt="slider" />
 			</a>
-
+			</div>
+			<div class="contact-icons">
 			<a class="icon-a" href="http://rachellesalvadora.github.io/" target="_blank">
 			<p class="p-icon">
 			Github.io</p>
 			<br/>
 			<img class="contact-icon" src="img/gitio.png" alt="slider" />
 			</a>
-
+			</div>
+			<div class="contact-icons">
 			<a class="icon-a" href="https://plus.google.com/106109016252327578750/" target="_blank">
 			<p class="p-icon">
 			Google+</p>
 			<br/>
 			<img class="contact-icon" src="img/google.png" alt="slider" />
 			</a>
-
+			</div>
+			<div class="contact-icons">
 			<a class="icon-a" href="http://instagram.com/rachellesalvadora/" target="_blank">
 			<p class="p-icon">
 			Instagram</p>
 			<br/>
 			<img class="contact-icon" src="img/instagram.png" alt="slider" />
 			</a>
-
+			</div>
+			<div class="contact-icons">
 			<a class="icon-a" href="http://blog.rachellesalvadora.com/" target="_blank">
 			<p class="p-icon">
 			Blog</p>
 			</br/>
 			<img class="contact-icon" src="img/blog.png" alt="slider" />
 			</a>
-
+			</div>
+			<div class="contact-icons">
 			<a class="icon-a" href="mailto:rachellesalvadora@gmail.com" target="_blank">
 			<p class="p-icon">
 			Email</p>
 			<br/>
 			<img class="contact-icon" src="img/email.png" alt="slider" />
 			</a>
+			</div>
 			</div>
 
 			<p class="p-contact">I like recieving messages so feel free to contact me anywhere.</p>
