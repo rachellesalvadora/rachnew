@@ -12,18 +12,14 @@ include "header.php";
 						<a class="nav-a" href="#firstPage">HOME</a>
 					</li>
 					<li class="nav-li" data-menuanchor="secondPage">
-						<a class="nav-a" href="#secondPage">WHO</a>
+						<a class="nav-a" href="#secondPage">CS50</a>
 					</li>
 					<li class="nav-li" data-menuanchor="3rdPage">
-						<a class="nav-a" href="#3rdPage">CS50</a>
+						<a class="nav-a" href="#3rdPage">TIMELINE</a>
 					</li>
 					<li class="nav-li" data-menuanchor="4thPage">
-						<a class="nav-a" href="#4thPage">TIMELINE</a>
+						<a class="nav-a" href="#4thPage">PERSONAL</a>
 					</li>
-					<li class="nav-li" data-menuanchor="5thPage">
-						<a class="nav-a" href="#5thPage">PERSONAL</a>
-					</li>
-					
 					<li class="nav-li" data-menuanchor="lastPage">
 						<a class="nav-a" href="#lastPage">CONTACT</a>
 					</li>
@@ -35,17 +31,7 @@ include "header.php";
 
 
 <div id="fullpage">
-	<div class="section " id="section0">
-		<div class="rachelle-div">
-
-			<h1 class="rachelle">
-				RACHELLE S.
-			</h1>
-			<p class="front-p">An aspiring web developer based in Melbourne, Australia <br /> with her husband and two baby Yoshi dragons.</p>
-			
-		</div>
-	</div>
-	<div class="section" id="section1">
+		<div class="section" id="section0">
 		<div class="container">
 			<div class="inside-container">
 				<div class="about-left">
@@ -55,6 +41,8 @@ include "header.php";
 
 				<div class="about-right" id="who">
 					<img class ="about-img" src="img/rachelle-whole.jpg" alt="about me image">
+					<p class="about-p">An <strong>aspiring</strong> web developer based in Melbourne, Australia <br /> with her husband and two baby Yoshi dragons (a Super Mario character).
+					</p>
 					<p class="about-p">
 						I'm having a lot of fun playing around the <strong>tools and techniques</strong>, writing websites through different <strong>languages</strong> and pushing changes in <strong>git</strong>.
 					</p>
@@ -70,7 +58,7 @@ include "header.php";
 		</div>
 	</div>
 
-	<div class="section" id="section2">
+	<div class="section" id="section1">
 		<div class="container2"  id="cs50" >
 			<div class="inside-container" >
 				<div class="cs50-div" >
@@ -109,7 +97,7 @@ include "header.php";
 		</div>
 	</div>
 
-	<div class="section" id="section3">
+	<div class="section" id="section2">
 		<div class="container3" id="timeline">
 			<div class="timeline">
 			<iframe src='http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AqxRHhGtSPoidGJjRzBzZzZoUkx6VWdSVTZLTklnNWc&font=Pacifico-Arimo&maptype=HYBRID&lang=en&start_at_slide=5&height=650' width='100%' height='650' frameborder='0'></iframe>
@@ -118,7 +106,7 @@ include "header.php";
 		</div>
 	</div>
 
-	<div class="section" id="section4">
+	<div class="section" id="section3">
 		<div class="personal" id="personal">
 	    	<div class="slide">
 	    	<div class="slide1">
@@ -156,7 +144,7 @@ include "header.php";
 		</div>
 	</div>
 
-	<div class="section" id="section5">
+	<div class="section" id="section4">
 		<div class="contact" id="contact">
 			<h1 class="h1-contact">Get In Touch</h1>
 
