@@ -34,9 +34,13 @@
 				anchors: ['firstPage', 'secondPage', '3rdPage', '4thPage', '5thPage', 'lastPage'],
 				menu: '#menu',
 				scrollingSpeed: 1000
+
+				
 			});
 
 		});
+
+		
 	</script>
 	
 </head>
